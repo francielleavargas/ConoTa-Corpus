@@ -1,3 +1,3 @@
 # ConoTa-Corpus
 
-A corpus annotated with positive, negative and satirical conotation on political twitters for the Portuguese language
+An corpus of twitter data annotated with three classes: positive, negative and satirical conotation. The domain is political and the language is the Portuguese.
